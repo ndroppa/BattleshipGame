@@ -29,11 +29,11 @@ Below is the rule sheet by which this game works.
 
 ### Visual demos
 ###### Menu
-![menu](https://github.com/ndroppa/BattleshipGame/assets/71926910/5a6710f4-f8c5-4654-aadd-fbcb85797b79=250x250)
+![menu](https://github.com/ndroppa/BattleshipGame/assets/71926910/5a6710f4-f8c5-4654-aadd-fbcb85797b79=250pxx250px)
 ###### Game board
-![gameBoard](https://github.com/ndroppa/BattleshipGame/assets/71926910/5f683d27-5199-4137-a264-3ca5c01cfe3c=250x250)
+![gameBoard](https://github.com/ndroppa/BattleshipGame/assets/71926910/5f683d27-5199-4137-a264-3ca5c01cfe3c=250pxx250px)
 ###### Ship placement
-![placement](https://github.com/ndroppa/BattleshipGame/assets/71926910/a6dba5ff-9365-4dfd-a83b-a26e4c0a5d13=250x250)
+![placement](https://github.com/ndroppa/BattleshipGame/assets/71926910/a6dba5ff-9365-4dfd-a83b-a26e4c0a5d13=250pxx250px)
 
 This code is written purely by me and was originally created to prepare an assignment for school. 
 It is currently serving as an item for my portfolio.
