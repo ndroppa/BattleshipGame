@@ -1,1 +1,1 @@
-# c_BattleshipGame
+# BattleshipGame
