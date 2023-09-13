@@ -35,7 +35,7 @@ Below is the rule sheet by which this game works.
 <img src="https://github.com/ndroppa/BattleshipGame/assets/71926910/5f683d27-5199-4137-a264-3ca5c01cfe3c" width="250" height="250">
 
 ###### Ship placement
-<img src="//github.com/ndroppa/BattleshipGame/assets/71926910/210f18ac-e020-449d-b842-47c23abdd367" width="250" height="250">
+<img src="https://github.com/ndroppa/BattleshipGame/assets/71926910/210f18ac-e020-449d-b842-47c23abdd367" width="250" height="250">
 
 This code is written purely by me and was originally created to prepare an assignment for school. 
 It is currently serving as an item for my portfolio.
