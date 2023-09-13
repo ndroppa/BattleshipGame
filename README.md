@@ -10,10 +10,11 @@ Below is the rule sheet by which this game works.
 ### Rules
 > The rules might not be exactly identical to the standard ones.
 
-⋅⋅* The winner is the one who destroys the opponent's ships first.
-⋅⋅* It is always possible to fire once per turn.
-⋅⋅* There must be 1 square space between the ships.
-⋅⋅* Before the start of the opponent's round, there is a visual representation to keep the ships stealthy.
+
+* The winner is the one who destroys the opponent's ships first.
+* It is always possible to fire once per turn.
+* There must be 1 square space between the ships.
+* Before the start of the opponent's round, there is a visual representation to keep the ships stealthy.
 
 
 ### Ships
